@@ -1,0 +1,9 @@
+nav:
+    - Home: 'index.md'
+    - 'User Guide'
+        - 'Getting Started': getting-started.md
+        - 'Options': configuration-options.md
+    - About: 'about.md'
+        - 'License': 'license.md
+        - 'Release Notes': 'release-notes.md'
+
